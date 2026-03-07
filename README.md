@@ -3,6 +3,8 @@
 [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?style=for-the-badge\&logo=googleplay)](https://play.google.com/store/apps/details?id=com.kwai.video.downloader.nowatermark)
 [![Stars](https://img.shields.io/github/stars/krmichael/kwai-video-downloader?style=for-the-badge)](https://github.com/krmichael/kwai-video-downloader)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=krmichael.baixar-video-do-kwai-sem-marca-dagua)
+
 Se você está procurando a melhor forma de **baixar video do kwai sem marca d'água**, o **Kwibo** é a solução ideal.
 Rápido, simples e totalmente gratuito, ele permite salvar qualquer vídeo do Kwai diretamente na galeria do seu celular — limpo, em alta qualidade e pronto para compartilhar.
 
